@@ -50,7 +50,7 @@ $closures = json_decode($closures_json, true);
             </div>
 
             <div id="footer">
-                <p>AYYYlmao Media - Copywrong 2017</p>
+                <p>SP</p>
             </div>
 
         </div>
